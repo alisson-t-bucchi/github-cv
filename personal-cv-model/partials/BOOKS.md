@@ -1,0 +1,49 @@
+# Books I read
+
+- Dynamic Flow - Applying system dynamics in the construction of digital products - by Celso Martins and Raphael Albino
+- The Programmer's Brain - What every programmer needs to know about cognition - by Felienne Hermans
+- The Coaching Habit - Say Less, Ask More & Change the Way You Lead Forever - by Michael Bungay Stanier
+- Talent Is Overrated - What Really Separates World-Class Performances from Everybody Else - by Geoff Colvin
+- A Philosophy of Software Design - by John Ousterhout
+- The Cathedral and the Bazaar - Musings on Linux and Open Source by an Accidental Revolutionary - by Eric S. Raymond 
+- Kanban - Successful Evolutionary Change for Your Technology Business - by David J. Anderson
+- The Goal - A process of ongoing improvement - 30th-anniversary edition - by Eliyahu M. Goldratt and Jeff Cox
+- How to change the world - Change management 3.0 - by Jurgen Appelo
+- Getting Real - The smarter, faster, easier way to build a successful web application - from BaseCamp
+- The Lean Startup - How Constant Innovation Creates Radically Successful Businesses - by Eric Ries
+- Dive Into Design Patterns - by Alexander Shvets
+- Continuous Delivery - Reliable software releases through build, test, and deployment automation - by Jez Humble and David Farley
+- The Phoenix Project - A novel about IT, DevOps, and helping your business win - by Gene Kim, Kevin Behr, and George Spafford
+- Extreme Programming - Embrace change - by Kent Beck
+- Extreme Programming - Practices for day-to-day agile software development, by Daniel Wild, Dionatan Moura, Guilherme Lacerda, and Rafael Helm
+- Building Software Teams - Ten best practices for effective software development - by Joost Vissers
+- Building Maintainable Software - Ten guidelines for future-proof code - by Joost Vissers
+- Composing Software - An explanation of functional programming and object composition in JavaScript - by Eric Elliott
+- Programming JavaScript Applications - Robust web architecture with Node, HTML5, and modern JS libraries, by Eric Elliott
+- Clean Code - A handbook of Agile software craftsmanship - by Robert C. Martin
+- The Clean Coder - A code of conduct for professional programmers - by Robert C. Martin
+- Clean architecture - A craftsman's guide to software structure and design - by Robert C. Martin
+- Clean Agile - Back to Basics - by Robert C. Martin
+- Clean Craftsmanship - Disciplines, Standards, and Ethics - by Robert C. Martin
+- The Software Craftsman: Professionalism, Pragmatism, Pride - By Sandro Mancuso
+- The Mantra of Productivity - Improve your productivity using focus techniques and personal organization - by Dionatan Moura
+- To The Point - A receipt for creating lean products - by Paulo Caroli
+- The Flip Manifesto - 16 counterintuitive ideas about motivation, innovation, and leadership - by Daniel H. Pink
+- Release It - Design and deploy production-ready software - by Michael T. Nygard
+- The DevOps handbook - How to create world-class agility, reliability, & security in technology organizations - by Gene Kim, Jez Humble, Patrick Debois & John Willis
+- Refactoring - Improve the design of existing code (first and second editions) - by Martin Fowler
+- Agile Testing - A practical guide for testers and Agile teams - by Lisa Crispin and Janet Gregory
+- Pride and Paradev - A collection of agile software testing contradictions - by Alister Scott
+- Leading Quality - How Great Leaders Deliver High-Quality Software & Accelerate Growth - by Ronald Cummings-John & Owais Peer 
+- The Road to Learn React - by Robin Wieruch
+- The Road to GraphQL - by Robin Wieruch **(in-progress)**
+- Lean Analytics - Use data to build a better startup faster - by Alistair Croll, and Benjamin Yoskovitz
+- The World is Flat - The globalized world in the twenty-first century - by Thomas L. Friedman
+- Hot, Flat, & Crowded - Why the world needs a green revolution - and how we can renew our global future - by Thomas L. Friedman
+- Sapiens - A Brief History of Humankind - by Yuval Harari
+- Blue Ocean Strategy - How to create uncontested market space and make competition irrelevant - by W. Chan Kim and Renée Mauborgne
+- How to Win Friends and Influence People - by Dale Carnegie
+- Outliers - The Story of Success - by Malcolm Gladwell
+- Emotional Intelligence - Why It Can Matter More Than IQ - by Daniel Goleman
+
+[Back to homepage](../README.md)
