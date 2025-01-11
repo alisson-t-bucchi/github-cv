@@ -1,5 +1,3 @@
 
-motivation_letters
-BOOKS.md
-COURSES.md
-SIDE_PROJECTS.md
+/motivation_letters/
+*.md
