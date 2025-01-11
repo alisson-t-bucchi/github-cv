@@ -277,4 +277,4 @@ Introduction to JavaScript variables, control flow, functions and higher-order f
   ![Image of certificate](./certificates/bloggeek.me%20certificate%20-%20advanced%20webrtc%20architecture%20course.png)
 </details>
 
-[Back to homepage](../README.md)
+[Back to homepage](../../README.md)

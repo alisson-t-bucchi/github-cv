@@ -61,7 +61,7 @@ Create engaging, well-structured content tailored to a target audience. This inc
 
 ## Lincenses & certifications
 
-Here's a [list of licenses and certifications](./partials/certificates) I did to develop my career. 
+Here's a [list of licenses and certifications](personal-cv-model/partials/certificates) I did to develop my career. 
 
 <!-- ## Side projects and community contribution
 

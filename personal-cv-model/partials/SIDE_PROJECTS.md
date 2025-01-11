@@ -68,4 +68,4 @@ This project is a library with different methods that can be used together with 
 
 This project has a simple implementation of BackstopJS tests that can be used by anyone who needs to run screenshot comparison tests in static web pages that have different relative URLs.
 
-[Back to homepage](../README.md)
+[Back to homepage](../../README.md)

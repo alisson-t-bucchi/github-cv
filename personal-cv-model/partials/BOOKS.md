@@ -46,4 +46,4 @@
 - Outliers - The Story of Success - by Malcolm Gladwell
 - Emotional Intelligence - Why It Can Matter More Than IQ - by Daniel Goleman
 
-[Back to homepage](../README.md)
+[Back to homepage](../../README.md)
