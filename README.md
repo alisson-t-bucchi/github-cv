@@ -1,8 +1,8 @@
 # Alisson T. Bucchi
 ### QA | Data Integration Developer 
 
-**E-mail:** alisson.bucchi@outlook.com
-**Websites:** https://alisson-t-bucchi.github.io/ 
+**E-mail:** alisson.bucchi@outlook.com  
+**Websites:** https://alisson-t-bucchi.github.io/  
 **Location:** Oeiras, Portugal 
 
 Dynamic IT professional and EU citizen with over two years of experience as a QA Tester and Developer, holding a Computer Networks and Systems degree from ESNIDH. Proficient in C, Python, and Java, I bring a solid foundation in Network Management and Programming to address a wide range of technical challenges effectively.  
