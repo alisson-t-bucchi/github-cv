@@ -49,7 +49,7 @@ Generated error reports and integrated testing into the CI/CD pipeline using JIR
 
 Collaborated with DevOps to develop and deploy containerized systems, ensuring alignment with industry best practices.
 
-### Freelance Web Designer and Digital Marketing [Workana](https://www.workana.com/pt/jobs?language=pt)  (August 2019 - January 2021)
+### Freelance Web Designer and Digital Marketing at [Workana](https://www.workana.com/pt/jobs?language=pt)  (August 2019 - January 2021)
 
 Designed and created prototypes for customers using Figma, Canva, and UI & UX techniques. 
 
